@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /angular-routes/
+RewriteBase /myapp/
 Options +FollowSymLinks
 
 RewriteCond %{REQUEST_FILENAME} !-f
